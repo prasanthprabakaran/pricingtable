@@ -2,6 +2,14 @@ div.pricing {
   background: #007bff;
   background: linear-gradient(to right,#0062E6,#33AEFF);
 }
+.App {
+  display: flex;
+  align-items: center;
+}
+.container {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
 .pricing .card {
   border: none;
   border-radius: 1rem;
